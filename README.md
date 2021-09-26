@@ -1,13 +1,13 @@
 # Tutorials
 
-
-| TITLE   | SOLUTIONS LIST | CHALLENGES / DONE |
-|---------|:------:|:-----------:|
-[HackerRank Tutorials: 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|[Solutions list](https://github.com/InsaneDan/Tutorials/blob/main/src/hackerrank/Tutorials/README.md)|30 / 30
-[HackerRank Practice: Java](https://www.hackerrank.com/domains/java)|[Solutions list](https://github.com/InsaneDan/Tutorials/blob/main/src/hackerrank/Practice/Java/README.md)|64 / 64
-[HackerRank Practice: Algorithms](https://www.hackerrank.com/domains/algorithms)|[Solutions list](https://github.com/InsaneDan/Tutorials/blob/main/src/hackerrank/Practice/Algorithms/README.md)|442 / 52
-[HackerRank Practice: Data Structures](https://www.hackerrank.com/domains/data-structures)|[Solutions list](https://github.com/InsaneDan/Tutorials/blob/main/src/hackerrank/Practice/DataStructures/README.md)|121
-[HackerRank Practice: Regex](https://www.hackerrank.com/domains/regex)|[Solutions list](https://github.com/InsaneDan/Tutorials/blob/main/src/hackerrank/Practice/Regex/README.md)|47
-[HackerRank Practice: Databases](https://www.hackerrank.com/domains/databases)|[Solutions list](https://github.com/InsaneDan/Tutorials/blob/main/src/hackerrank/Practice/Databases/README.md)|52
-[HackerRank Practice: SQL](https://www.hackerrank.com/domains/sql)|[Solutions list](https://github.com/InsaneDan/Tutorials/blob/main/src/hackerrank/Practice/SQL/README.md)|58
+| TITLE   | LINKS TO SOLUTIONS PAGES |
+|---------|:------------------------:|
+[HackerRank Tutorials: 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|[![https://img.shields.io/badge/Total:_30-30-success](https://img.shields.io/badge/Total:_30-30-success)](https://github.com/InsaneDan/Tutorials/tree/master/src/hackerrank/Tutorials/ThirtyDaysOfCode)|
+[HackerRank Practice: Java](https://www.hackerrank.com/domains/java)|[![https://img.shields.io/badge/Total:_64-64-success](https://img.shields.io/badge/Total:_64-64-success)](https://github.com/InsaneDan/Tutorials/tree/master/src/hackerrank/Practice/Java)|
+[HackerRank Practice: Algorithms](https://www.hackerrank.com/domains/algorithms)|[![https://img.shields.io/badge/Total:_442-52-red](https://img.shields.io/badge/Total:_442-52-red)](https://github.com/InsaneDan/Tutorials/tree/master/src/hackerrank/Practice/Algorithms)|
+[HackerRank Practice: Data Structures](https://www.hackerrank.com/domains/data-structures)|[![https://img.shields.io/badge/Total:_121-0-lightgrey](https://img.shields.io/badge/Total:_121-0-lightgrey)](https://github.com/InsaneDan/Tutorials/tree/master/src/hackerrank/Practice/DataStructures)|
+[HackerRank Practice: Regex](https://www.hackerrank.com/domains/regex)|[![https://img.shields.io/badge/Total:47-0-lightgrey](https://img.shields.io/badge/Total:47-0-lightgrey)](https://github.com/InsaneDan/Tutorials/tree/master/src/hackerrank/Practice/Regex)|
+[HackerRank Practice: Databases](https://www.hackerrank.com/domains/databases)|[![https://img.shields.io/badge/Total:52-1-lightgrey](https://img.shields.io/badge/Total:52-28-lightgrey)](https://github.com/InsaneDan/Tutorials/tree/master/src/hackerrank/Practice/Databases)|
+[HackerRank Practice: SQL](https://www.hackerrank.com/domains/sql)|[![https://img.shields.io/badge/Total:58-0-lightgrey](https://img.shields.io/badge/Total:58-0-lightgrey)](https://github.com/InsaneDan/Tutorials/tree/master/src/hackerrank/Practice/SQL)|
+[HackerRank Practice: Mathematics](https://www.hackerrank.com/domains/mathematics)|[![https://img.shields.io/badge/Total:58-0-lightgrey](https://img.shields.io/badge/Total:283-0-lightgrey)](https://github.com/InsaneDan/Tutorials/tree/master/src/hackerrank/Practice/Mathematics)|
 
