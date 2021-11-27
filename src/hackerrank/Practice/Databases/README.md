@@ -9,13 +9,13 @@ IMHO: awful questions with wrong possible answers
 
 | TITLE                                                               | DIFFICULTY | SKILLS | Max Scores | Solved |
 |---------------------------------------------------------------------|:----------:|:----------:|:------:|:------:|
-[Basics of Sets and Relations #1](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1)|Easy|Problem Solving (Basic)|5|[solved](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1/submissions/code/235544004)
-[Basics of Sets and Relations #2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2)|Easy|Problem Solving (Basic)|5|[solved](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2/submissions/code/235558966)
-[Basics of Sets and Relations #3](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3)|Easy|Problem Solving (Basic)|5|[solved](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3/submissions/code/235559048)
-[Basics of Sets and Relations #4](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-4)|Easy|Problem Solving (Basic)|5|[solved](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-4/submissions/code/235559238)
-[Basics of Sets and Relations #5](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-5)|Easy|Problem Solving (Basic)|5|[solved](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-5/submissions/code/235559344)
-[Basics of Sets and Relations #6](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-6)|Easy|Problem Solving (Basic)|5|[solved](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-6/submissions/code/235559650)
-[Basics of Sets and Relations #7](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-7)|Easy|Problem Solving (Basic)|5|[solved](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-7/submissions/code/235560002)
+[Basics of Sets and Relations #1](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1)|Easy|Problem Solving (Basic)|5|[8](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1/submissions/code/235544004)
+[Basics of Sets and Relations #2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2)|Easy|Problem Solving (Basic)|5|[5](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2/submissions/code/235558966)
+[Basics of Sets and Relations #3](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3)|Easy|Problem Solving (Basic)|5|[1](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3/submissions/code/235559048)
+[Basics of Sets and Relations #4](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-4)|Easy|Problem Solving (Basic)|5|[42](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-4/submissions/code/235559238)
+[Basics of Sets and Relations #5](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-5)|Easy|Problem Solving (Basic)|5|[2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-5/submissions/code/235559344)
+[Basics of Sets and Relations #6](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-6)|Easy|Problem Solving (Basic)|5|[2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-6/submissions/code/235559650)
+[Basics of Sets and Relations #7](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-7)|Easy|Problem Solving (Basic)|5|[2](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-7/submissions/code/235560002)
 [Relational Algebra - 3](https://www.hackerrank.com/challenges/relational-algebra-3)|Easy|Problem Solving (Basic)|2|&#x2611; Equijoins
 [Relational Algebra - 4](https://www.hackerrank.com/challenges/relational-algebra-4)|Easy|Problem Solving (Basic)|2|&#x2611; Left to right
 [Database Query Languages](https://www.hackerrank.com/challenges/database-query-languages)|Easy|Problem Solving (Basic)|2|&#x2611; Query
@@ -33,16 +33,16 @@ IMHO: awful questions with wrong possible answers
 [OLAP Name(s)](https://www.hackerrank.com/challenges/olap-names)|Easy|Problem Solving (Basic)|5|&#x2611; Both (B) and (C)
 [The Total View](https://www.hackerrank.com/challenges/the-total-view)|Easy|Problem Solving (Basic)|5|&#x2611; Data Warehousing
 [OLAP Operation Types](https://www.hackerrank.com/challenges/olap-operation-types-2)|Easy|Problem Solving (Basic)|5|&#x2611; (4, 7, 3, 84, 160, 117)
-[Database Normalization #1 - 1NF](https://www.hackerrank.com/challenges/database-normalization-1-1nf)|Easy|Problem Solving (Basic)|5|[solved](https://www.hackerrank.com/challenges/database-normalization-1-1nf/submissions/code/235566015)
-[Database Normalization #2 - 1/2/3 NF](https://www.hackerrank.com/challenges/database-normalization-123nf)|Easy|Problem Solving (Basic)|5|[solved](https://www.hackerrank.com/challenges/database-normalization-123nf/submissions/code/235566389)
-[Database Normalization #3](https://www.hackerrank.com/challenges/database-normalization-3)|Hard|Problem Solving (Basic)|5|[solved](https://www.hackerrank.com/challenges/database-normalization-3/submissions/code/235566841)
-[Database Normalization #4](https://www.hackerrank.com/challenges/database-normalization-4)|Easy|Problem Solving (Basic)|5|[solved](https://www.hackerrank.com/challenges/database-normalization-4/submissions/code/235567091)
-[Database Normalization #5](https://www.hackerrank.com/challenges/database-normalization-5)|Medium|Problem Solving (Basic)|5|[solved]
-[Database Normalization #6](https://www.hackerrank.com/challenges/database-normalization-6)|Medium|Problem Solving (Basic)|5|[solved]
-[Database Normalization #7](https://www.hackerrank.com/challenges/database-normalization-7)|Medium|Problem Solving (Basic)|5|[solved]
-[Database Normalization #8](https://www.hackerrank.com/challenges/database-normalization-8)|Medium|Problem Solving (Basic)|5|[solved]
-[Database Normalization #9](https://www.hackerrank.com/challenges/database-normalization-9)|Hard|Problem Solving (Basic)|5|[solved]
-[Database Normalization #10](https://www.hackerrank.com/challenges/database-normalization-10)|Medium|Problem Solving (Basic)|5|[solved]
+[Database Normalization #1 - 1NF](https://www.hackerrank.com/challenges/database-normalization-1-1nf)|Easy|Problem Solving (Basic)|5|[3,5,2](https://www.hackerrank.com/challenges/database-normalization-1-1nf/submissions/code/235566015)
+[Database Normalization #2 - 1/2/3 NF](https://www.hackerrank.com/challenges/database-normalization-123nf)|Easy|Problem Solving (Basic)|5|[3](https://www.hackerrank.com/challenges/database-normalization-123nf/submissions/code/235566389)
+[Database Normalization #3](https://www.hackerrank.com/challenges/database-normalization-3)|Hard|Problem Solving (Basic)|5|[3](https://www.hackerrank.com/challenges/database-normalization-3/submissions/code/235566841)
+[Database Normalization #4](https://www.hackerrank.com/challenges/database-normalization-4)|Easy|Problem Solving (Basic)|5|[10](https://www.hackerrank.com/challenges/database-normalization-4/submissions/code/235567091)
+[Database Normalization #5](https://www.hackerrank.com/challenges/database-normalization-5)|Medium|Problem Solving (Basic)|5|[3](https://www.hackerrank.com/challenges/database-normalization-5/submissions/code/244696678)
+[Database Normalization #6](https://www.hackerrank.com/challenges/database-normalization-6)|Medium|Problem Solving (Basic)|5|[2](https://www.hackerrank.com/challenges/database-normalization-6/submissions/code/244696911)
+[Database Normalization #7](https://www.hackerrank.com/challenges/database-normalization-7)|Medium|Problem Solving (Basic)|5|[3.5](https://www.hackerrank.com/challenges/database-normalization-7/submissions/code/244697298)
+[Database Normalization #8](https://www.hackerrank.com/challenges/database-normalization-8)|Medium|Problem Solving (Basic)|5|[3](https://www.hackerrank.com/challenges/database-normalization-8/submissions/code/244697587)
+[Database Normalization #9](https://www.hackerrank.com/challenges/database-normalization-9)|Hard|Problem Solving (Basic)|5|[2](https://www.hackerrank.com/challenges/database-normalization-9/submissions/code/244697905)
+[Database Normalization #10](https://www.hackerrank.com/challenges/database-normalization-10)|Medium|Problem Solving (Basic)|5|[6](https://www.hackerrank.com/challenges/database-normalization-10/submissions/code/244698456)
 [Map Reduce Advanced - Count number of friends](https://www.hackerrank.com/challenges/map-reduce-advanced-count-number-of-friends)|Hard|Problem Solving (Basic)|30|[solved]
 [Map Reduce Advanced - Relational Join](https://www.hackerrank.com/challenges/map-reduce-advanced-relational-join)|Hard|Problem Solving (Basic)|40|[solved]
 [Map Reduce Advanced - Matrix Multiplication](https://www.hackerrank.com/challenges/map-reduce-advanced-matrix-multiplication)|Advanced|Problem Solving (Basic)|50|[solved]
